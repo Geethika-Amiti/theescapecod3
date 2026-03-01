@@ -149,7 +149,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .hero-bg {
   position: absolute; inset: 0;
-  background: url('https://id-preview--07394f94-afc1-48a7-9824-16d551674eb2.lovable.app/assets/hero-bg-BSMW5gxv.jpg') center/cover no-repeat;
+  background: url('images/hero-bg.jpg') center/cover no-repeat;
 }
 .hero-overlay {
   position: absolute; inset: 0;
